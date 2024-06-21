@@ -1,0 +1,463 @@
+{
+  "access": {
+    "embargo": {
+      "active": false,
+      "reason": null
+    },
+    "files": "public",
+    "record": "public",
+    "status": "open"
+  },
+  "created": "2020-03-21T20:16:27.524544+00:00",
+  "custom_fields": {},
+  "deletion_status": {
+    "is_deleted": false,
+    "status": "P"
+  },
+  "files": {
+    "count": 13,
+    "enabled": true,
+    "entries": {
+      "annotations.csv": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:f4404df491aee6445a4485061bfdffdd",
+        "ext": "csv",
+        "id": "e0b69469-9315-4dcc-b365-4878ddcc7760",
+        "key": "annotations.csv",
+        "links": {
+          "content": "https://zenodo.org/api/records/3723295/files/annotations.csv/content",
+          "self": "https://zenodo.org/api/records/3723295/files/annotations.csv"
+        },
+        "metadata": null,
+        "mimetype": "text/csv",
+        "size": 136986,
+        "storage_class": "L"
+      },
+      "candidates.csv": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:2493fb3a766f71a7e1c6591d45191215",
+        "ext": "csv",
+        "id": "feb15447-88a8-4c4c-ab63-dd1f15311014",
+        "key": "candidates.csv",
+        "links": {
+          "content": "https://zenodo.org/api/records/3723295/files/candidates.csv/content",
+          "self": "https://zenodo.org/api/records/3723295/files/candidates.csv"
+        },
+        "metadata": null,
+        "mimetype": "text/csv",
+        "size": 55427881,
+        "storage_class": "L"
+      },
+      "candidates_V2.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:2d9c19aa140e6c6705bb81ee26742022",
+        "ext": "zip",
+        "id": "e795301b-950a-4faf-85de-9b59d89a5287",
+        "key": "candidates_V2.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/3723295/files/candidates_V2.zip/content",
+          "self": "https://zenodo.org/api/records/3723295/files/candidates_V2.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 11439452,
+        "storage_class": "L"
+      },
+      "evaluationScript.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:02680d438a80dc26eeff0c12e1942642",
+        "ext": "zip",
+        "id": "4ead4b05-b932-4d14-b6ab-7fda0b3e7363",
+        "key": "evaluationScript.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/3723295/files/evaluationScript.zip/content",
+          "self": "https://zenodo.org/api/records/3723295/files/evaluationScript.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 21803068,
+        "storage_class": "L"
+      },
+      "sampleSubmission.csv": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:76df445fe9f4899fd1fff417d234ca14",
+        "ext": "csv",
+        "id": "7adbc69f-4fa1-463f-a7d7-98efbac2dd08",
+        "key": "sampleSubmission.csv",
+        "links": {
+          "content": "https://zenodo.org/api/records/3723295/files/sampleSubmission.csv/content",
+          "self": "https://zenodo.org/api/records/3723295/files/sampleSubmission.csv"
+        },
+        "metadata": null,
+        "mimetype": "text/csv",
+        "size": 740,
+        "storage_class": "L"
+      },
+      "seg-lungs-LUNA16.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:76a63198623f978f625994bf34447db8",
+        "ext": "zip",
+        "id": "430686ec-ac41-4dc6-85c8-e763fb9b67a0",
+        "key": "seg-lungs-LUNA16.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/3723295/files/seg-lungs-LUNA16.zip/content",
+          "self": "https://zenodo.org/api/records/3723295/files/seg-lungs-LUNA16.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 303871549,
+        "storage_class": "L"
+      },
+      "subset0.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:1065b0f42b8c25cf29260fd924a3c3a2",
+        "ext": "zip",
+        "id": "c03c786c-f190-447d-9ed0-cb6d309d83e2",
+        "key": "subset0.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/3723295/files/subset0.zip/content",
+          "self": "https://zenodo.org/api/records/3723295/files/subset0.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 6811924508,
+        "storage_class": "L"
+      },
+      "subset1.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:2eda28bb123543074f5cd849499b87ff",
+        "ext": "zip",
+        "id": "02a855f1-2d34-4fea-a701-237c90fb7569",
+        "key": "subset1.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/3723295/files/subset1.zip/content",
+          "self": "https://zenodo.org/api/records/3723295/files/subset1.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 6334778552,
+        "storage_class": "L"
+      },
+      "subset2.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:685b484b085bcdb81c525f3b1bf97c51",
+        "ext": "zip",
+        "id": "31809e0d-851e-474d-a979-903468e8e29d",
+        "key": "subset2.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/3723295/files/subset2.zip/content",
+          "self": "https://zenodo.org/api/records/3723295/files/subset2.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 7257937108,
+        "storage_class": "L"
+      },
+      "subset3.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:54707e9e8954af29326eed60f38ea321",
+        "ext": "zip",
+        "id": "a3e02a3c-eab5-4b3e-ba85-b9f2790cd30e",
+        "key": "subset3.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/3723295/files/subset3.zip/content",
+          "self": "https://zenodo.org/api/records/3723295/files/subset3.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 6896620114,
+        "storage_class": "L"
+      },
+      "subset4.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:98225ccb1a41fc434631f63f4284796a",
+        "ext": "zip",
+        "id": "6b22f917-a618-4d12-a198-db606859e15b",
+        "key": "subset4.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/3723295/files/subset4.zip/content",
+          "self": "https://zenodo.org/api/records/3723295/files/subset4.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 6856144330,
+        "storage_class": "L"
+      },
+      "subset5.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:395ec714c4123cf213fb7b08f05ee9cc",
+        "ext": "zip",
+        "id": "01b19b5f-0154-4748-87ac-7f277f1932cf",
+        "key": "subset5.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/3723295/files/subset5.zip/content",
+          "self": "https://zenodo.org/api/records/3723295/files/subset5.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 6610460097,
+        "storage_class": "L"
+      },
+      "subset6.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:d162df1444a6f2674ab8273c7f9e1520",
+        "ext": "zip",
+        "id": "5cef8329-6efd-499c-977c-ccc59e8774a6",
+        "key": "subset6.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/3723295/files/subset6.zip/content",
+          "self": "https://zenodo.org/api/records/3723295/files/subset6.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 6531050274,
+        "storage_class": "L"
+      }
+    },
+    "order": [],
+    "total_bytes": 47691594659
+  },
+  "id": "3723295",
+  "is_draft": false,
+  "is_published": true,
+  "links": {
+    "access": "https://zenodo.org/api/records/3723295/access",
+    "access_grants": "https://zenodo.org/api/records/3723295/access/grants",
+    "access_links": "https://zenodo.org/api/records/3723295/access/links",
+    "access_request": "https://zenodo.org/api/records/3723295/access/request",
+    "access_users": "https://zenodo.org/api/records/3723295/access/users",
+    "archive": "https://zenodo.org/api/records/3723295/files-archive",
+    "archive_media": "https://zenodo.org/api/records/3723295/media-files-archive",
+    "communities": "https://zenodo.org/api/records/3723295/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/3723295/communities-suggestions",
+    "doi": "https://doi.org/10.5281/zenodo.3723295",
+    "draft": "https://zenodo.org/api/records/3723295/draft",
+    "files": "https://zenodo.org/api/records/3723295/files",
+    "latest": "https://zenodo.org/api/records/3723295/versions/latest",
+    "latest_html": "https://zenodo.org/records/3723295/latest",
+    "media_files": "https://zenodo.org/api/records/3723295/media-files",
+    "parent": "https://zenodo.org/api/records/2595812",
+    "parent_doi": "https://zenodo.org/doi/10.5281/zenodo.2595812",
+    "parent_html": "https://zenodo.org/records/2595812",
+    "requests": "https://zenodo.org/api/records/3723295/requests",
+    "reserve_doi": "https://zenodo.org/api/records/3723295/draft/pids/doi",
+    "self": "https://zenodo.org/api/records/3723295",
+    "self_doi": "https://zenodo.org/doi/10.5281/zenodo.3723295",
+    "self_html": "https://zenodo.org/records/3723295",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:3723295/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:3723295/sequence/default",
+    "versions": "https://zenodo.org/api/records/3723295/versions"
+  },
+  "media_files": {
+    "count": 0,
+    "enabled": false,
+    "entries": {},
+    "order": [],
+    "total_bytes": 0
+  },
+  "metadata": {
+    "creators": [
+      {
+        "affiliations": [
+          {
+            "name": "Radboud UMC"
+          }
+        ],
+        "person_or_org": {
+          "family_name": "van Ginneken",
+          "given_name": "Bram",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-2028-8972",
+              "scheme": "orcid"
+            }
+          ],
+          "name": "van Ginneken, Bram",
+          "type": "personal"
+        }
+      },
+      {
+        "affiliations": [
+          {
+            "name": "Radboud UMC"
+          }
+        ],
+        "person_or_org": {
+          "family_name": "Jacobs",
+          "given_name": "Colin",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-1180-3805",
+              "scheme": "orcid"
+            }
+          ],
+          "name": "Jacobs, Colin",
+          "type": "personal"
+        }
+      }
+    ],
+    "description": "<p>This dataset contains the download data for the LUNA16 challenge available at&nbsp;https://luna16.grand-challenge.org/</p>\n\n<p>The dataset is bigger than Zenodo currently allows, the remaining files can be found in LUNA16 Part 2/2.&nbsp;</p>\n\n<p>This dataset includes the images from the LIDC/IDRI dataset in a different format, together with additional annotations.&nbsp;The LIDC/IDRI dataset is available at&nbsp;https://wiki.cancerimagingarchive.net/display/Public/LIDC-IDRI under a&nbsp;Creative Commons Attribution 3.0 Unported License.</p>\n\n<p>&nbsp;</p>",
+    "publication_date": "2019-03-16",
+    "publisher": "Zenodo",
+    "related_identifiers": [
+      {
+        "identifier": "10.1016/j.media.2017.06.015",
+        "relation_type": {
+          "id": "isdocumentedby",
+          "title": {
+            "de": "Wird dokumentiert von",
+            "en": "Is documented by"
+          }
+        },
+        "scheme": "doi"
+      },
+      {
+        "identifier": "https://luna16.grand-challenge.org/",
+        "relation_type": {
+          "id": "isdocumentedby",
+          "title": {
+            "de": "Wird dokumentiert von",
+            "en": "Is documented by"
+          }
+        },
+        "scheme": "url"
+      }
+    ],
+    "resource_type": {
+      "id": "dataset",
+      "title": {
+        "de": "Datensatz",
+        "en": "Dataset"
+      }
+    },
+    "rights": [
+      {
+        "description": {
+          "en": "The Creative Commons Attribution license allows re-distribution and re-use of a licensed work on the condition that the creator is appropriately credited."
+        },
+        "icon": "cc-by-icon",
+        "id": "cc-by-4.0",
+        "props": {
+          "scheme": "spdx",
+          "url": "https://creativecommons.org/licenses/by/4.0/legalcode"
+        },
+        "title": {
+          "en": "Creative Commons Attribution 4.0 International"
+        }
+      }
+    ],
+    "title": "LUNA16 Part 1/2"
+  },
+  "parent": {
+    "access": {
+      "owned_by": {
+        "user": "49397"
+      }
+    },
+    "communities": {
+      "default": "d268b7d2-a37a-4355-9983-5818a7bf4c4a",
+      "entries": [
+        {
+          "access": {
+            "member_policy": "open",
+            "members_visibility": "public",
+            "record_policy": "open",
+            "review_policy": "open",
+            "visibility": "public"
+          },
+          "children": {
+            "allow": false
+          },
+          "created": "2019-03-16T08:37:12.623394+00:00",
+          "custom_fields": {},
+          "deletion_status": {
+            "is_deleted": false,
+            "status": "P"
+          },
+          "id": "d268b7d2-a37a-4355-9983-5818a7bf4c4a",
+          "links": {},
+          "metadata": {
+            "curation_policy": "<p>We aim to include any uploads related to challenges on the grand-challenge.org platform.</p>\r\n",
+            "description": "This community contains data collections that are linked to challenges and other sites on the website grand-challenge.org.",
+            "page": "",
+            "title": "grand-challenge.org"
+          },
+          "revision_id": 0,
+          "slug": "grand-challenge",
+          "updated": "2019-03-16T08:37:12.623409+00:00"
+        }
+      ],
+      "ids": [
+        "d268b7d2-a37a-4355-9983-5818a7bf4c4a"
+      ]
+    },
+    "id": "2595812",
+    "pids": {
+      "doi": {
+        "client": "datacite",
+        "identifier": "10.5281/zenodo.2595812",
+        "provider": "datacite"
+      }
+    }
+  },
+  "pids": {
+    "doi": {
+      "client": "datacite",
+      "identifier": "10.5281/zenodo.3723295",
+      "provider": "datacite"
+    },
+    "oai": {
+      "identifier": "oai:zenodo.org:3723295",
+      "provider": "oai"
+    }
+  },
+  "revision_id": 2,
+  "stats": {
+    "all_versions": {
+      "data_volume": 7155247165904373.0,
+      "downloads": 1244508,
+      "unique_downloads": 183232,
+      "unique_views": 72558,
+      "views": 84769
+    },
+    "this_version": {
+      "data_volume": 3285684655107818.0,
+      "downloads": 632415,
+      "unique_downloads": 146591,
+      "unique_views": 58997,
+      "views": 68910
+    }
+  },
+  "status": "published",
+  "updated": "2020-03-21T20:20:13.554970+00:00",
+  "versions": {
+    "index": 3,
+    "is_latest": true
+  }
+}
